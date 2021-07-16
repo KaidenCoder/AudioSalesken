@@ -1,0 +1,40 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#container {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+#range {
+    width: 20rem;
+    border: none;
+    margin-top: 1em;
+
+}
+
+.buttons {
+    margin-top: 2em;
+}
+
+#added {
+    display: flex;
+    flex-direction: row;
+    margin-left: 30%;
+}
+
+#tag {
+    transform: rotate(60deg);
+    margin-right: 12em;
+    font-size: 1em;
+    color: red;
+}
