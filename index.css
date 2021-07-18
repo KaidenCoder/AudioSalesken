@@ -34,7 +34,7 @@ body {
 
 #tag {
     transform: rotate(60deg);
-    margin-right: 12em;
+    margin-right: 8em;
     font-size: 1em;
     color: red;
 }
